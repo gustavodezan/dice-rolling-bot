@@ -1,3 +1,6 @@
+# o bot rola dados e envie mensagens motivacionais junto dos resultados
+#----------------------------------------------------------------------
+
 import discord
 import random
 import frases
@@ -8,7 +11,7 @@ client = discord.Client()
 @client.event
 async def on_ready():
     print('online'.format(client))
-
+    
 # ------------
 # Constantes
 # ------------
