@@ -1,2 +1,1 @@
 # dice-rolling-bot
-WIP
