@@ -1,4 +1,4 @@
-# o bot rola dados e envie mensagens motivacionais junto dos resultados
+# rolls dice and sends motivational messages along with the results
 #----------------------------------------------------------------------
 
 import discord
